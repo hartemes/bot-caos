@@ -1,14 +1,13 @@
 {
   "name": "bot-caos",
   "version": "1.0.0",
-  "description": "Bot do Caos",
+  "description": "Bot do Caos Social",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "whatsapp-web.js": "^1.23.0",
-    "qrcode-terminal": "^0.12.0",
-    "puppeteer": "^21.0.0"
+    "whatsapp-web.js": "1.23.0",
+    "qrcode-terminal": "0.12.0"
   }
 }
